@@ -22,4 +22,4 @@ const headers = {
 Construído como parte de um projeto da DIO
 
 
-![Dashboard](https://ibb.co/2WSXzbp "Dashboard")
+![Dashboard](https://i.ibb.co/sbCLTBX/Screenshot-from-2020-08-16-21-48-58.png "Dashboard")
